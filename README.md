@@ -24,7 +24,7 @@ This repository contains a base project for internship program at EBS Integrator
 * [Python 3.10](https://docs.python.org/3.10)
 * [Django 3.2](https://docs.djangoproject.com/en/3.2)
 
-### First steps to run the project [ ![#c5f015] TIME 1 DAYS `#c5f015`]
+### First steps to run the project [<div style="background-color: #c5f015; padding: 10px;">  TIME 1 DAYS </div>]
 
 Some steps before start work on tasks.
 
@@ -38,7 +38,7 @@ https://docs.djangoproject.com/en/3.2/intro/install/
 6. In swagger click "Authorize" button and type ```Bearer <access token from response>```
 7. Let's do first milestone!
 
-### Milestone 1 [![#c5f015] TIME 3 DAYS `#c5f015`]
+### Milestone 1 [<div style="background-color: #c5f015; padding: 10px;">  TIME 3 DAYS </div>]
 
 We start with some changes to understand the project code
 
